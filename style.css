@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.follow{
+    font-size: 15px;
+    padding-left: 150px;
+}
+.head{
+    background-color: #B784A7;
+    width: 100%;
+    height:200px;
+    margin-top:-70px;
+}
+.icon{
+    position: relative;
+    left: 500px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.icons{
+    margin-top:10px;
+}
+.homes{
+    display: flex;
+    justify-content: center;
+    /* font-size: 15; */
+    background-color: #B784A7;
+}
+.home{
+    flex-wrap: wrap;
+    display: flex;
+    display: inline-flex;
+    list-style-type: none;
+    gap: 50px;
+    
+    text-align: center;
+}
+.goldLine{
+    width: 100%;
+    height: 15px;
+    background-color:#C88628;
+}
+/* head end */
